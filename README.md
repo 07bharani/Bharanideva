@@ -12,4 +12,4 @@ Support for diverse movie features such as genre, director, and actors
 
 # Installation
 1. Clone the repository:
-https://github.com/07bharani/python-_ybi/blob/movie%20recommandation%20.ipynb
+https://github.com/07bharani/python-_ybi/blob/ff9cc94f5babeda808b0390e5dce625856c2b97b/movie%20recommandation%20.ipynb
