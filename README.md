@@ -11,4 +11,4 @@ Implementation of machine learning algorithms through scikit-learn
 Support for diverse movie features such as genre, director, and actors
 
 # Installation
-1. Clone the repository
+1. Clone the repository:
